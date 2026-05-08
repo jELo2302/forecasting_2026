@@ -51,7 +51,7 @@ Este ecosistema de inteligencia financiera integra modelos probabilísticos y t�
 | Referencia | Visualización | Valor para la Alta Gerencia |
 | :--- | :--- | :--- |
 | **Estrategia** | ![Frontera Eficiente](images/image_722d78.png) | **Optimización de Markowitz:** Identificación del portafolio que maximiza el **Sharpe Ratio**. Es el punto de decisión para la asignación de recursos. |
-| **Eficiencia** | ![Análisis de Portafolio](images/image_722d3b.png) | **Matriz de Rendimiento:** Comparativa visual entre activos para detectar desviaciones en el desempeño esperado. |
+| **Optimización de Riesgo** | ![Análisis de Portafolio](images/image_722d3b.png) | **Perfil de Riesgo y Convergencia:**  Análisis de la distribución de retornos finales mediante el cálculo de VaR (Value at Risk) y CVaR (Expected Shortfall). Esta visualización permite identificar desviaciones en el desempeño esperado y cuantificar la severidad de las pérdidas en escenarios de estrés (cola izquierda).. |
 
 ---
 
