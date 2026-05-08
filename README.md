@@ -41,7 +41,7 @@ Este ecosistema de inteligencia financiera integra modelos probabilísticos y t�
 | Referencia | Visualización | Descripción Técnica |
 | :--- | :--- | :--- |
 | **Riesgo Extremo** | ![Monte Carlo VaR](images/image_7221ff.png) | **Simulación Monte Carlo:** Proyección de 10,000 escenarios. Identificamos el **VaR** y el **CVaR**, detectando la 'Zona de Crisis' para protección de capital. |
-| **Forecasting** | ![Proyección Estocástica](images/image_7222d8.jpg) | **Abanico de Probabilidades:** Representación visual de la tendencia central y la dispersión esperada del portafolio hacia 2026. |
+| **Forecasting** | ![Proyección Estocástica](images/image_7222d8.png) | **Abanico de Probabilidades:** Representación visual de la tendencia central y la dispersión esperada del portafolio hacia 2026. |
 | **Explicabilidad** | ![SHAP Values](images/image_7225bb.png) | **IA Explicable (SHAP):** Desglose del impacto de cada activo en el modelo, asegurando transparencia en la selección de la estrategia. |
 
 ---
